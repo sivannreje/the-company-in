@@ -6,6 +6,7 @@
 
 ## instructions:
 
-please go to the main directory of this project and run the commands:
-npm install
-npm start
+please go to the frontend directory and run the commands:
+
+- npm install
+- npm start
